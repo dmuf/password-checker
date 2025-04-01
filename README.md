@@ -16,7 +16,7 @@ A Python tool that checks password strength and security. It analyzes passwords 
 ## 🛠️ Installation  
 1. **Clone the repository**  
 ```sh
-git clone https://github.com/YOUR-USERNAME/password-checker.git
+git clone https://github.com/dmuf/password-checker.git
 ```
 2. **Navigate to the project folder**  
 ```sh
