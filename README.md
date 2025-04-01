@@ -37,7 +37,9 @@ python password_checker.py
 - This ensures **privacy** while checking if your password has appeared in data breaches.  
 
 ## 📸 Screenshots  
+![image](https://github.com/user-attachments/assets/fc8e2f84-8701-4b51-bddf-72280ba97d30)
 
+![image](https://github.com/user-attachments/assets/01e0397f-6106-49f8-85ed-fec6e68d62bf)
 
 ## 📝 License  
 This project is licensed under the MIT License.  
