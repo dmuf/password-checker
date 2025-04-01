@@ -37,17 +37,8 @@ python password_checker.py
 - This ensures **privacy** while checking if your password has appeared in data breaches.  
 
 ## 📸 Screenshots  
-(Add screenshots of your project here)  
+
 
 ## 📝 License  
 This project is licensed under the MIT License.  
 ```
-
----
-
-### **🔹 Next Steps:**
-✅ **Update your README with this version**  
-✅ **Make sure your repository includes the `requirements.txt` file**  
-✅ **Upload screenshots if you want**  
-
-This will make your repo **stand out as a serious cybersecurity tool!** 🚀 Let me know if you need any changes!
